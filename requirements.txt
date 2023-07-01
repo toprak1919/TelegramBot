@@ -1,0 +1,8 @@
+EdgeGPT==0.11.8
+python-telegram-bot==20.3
+telegram==0.0.1
+revChatGPT==6.7.3
+GoogleBard==1.4.0
+asyncio==3.4.3
+nest-asyncio==1.5.6
+EdgeGPT==0.11.8
